@@ -1,0 +1,2 @@
+# sensitive_word_substitution
+基于Vue的DFA算法实现敏感词替换
